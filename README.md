@@ -38,10 +38,14 @@ _Note: Content will become available sequentially as the time of the session app
   - In the group, you will analyze a data set of your own choice and apply the methods learned in class. This assignment is designed to help students apply the skills learned in the course to a practical application of their choice.
   - Some [hints](./Exam/TaskHints.pdf) on how to proceed in your group work
   - Tips for data sets:
-  	- https://sites.google.com/site/pietrobiroli/resources
-   	- https://www.one-tab.com/page/STn8dvhbRLeFwh085-i00w
-	- https://wiso.uni-koeln.de/en/faculty/wiso-library-and-campus-service/research-databases
-	- The [World Values Survey](https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp)
+	- [World Management Survey](https://worldmanagementsurvey.org/)
+	- [German Data from the Federal Employment Agency](https://fdz.iab.de/en/our-data-products/data-for-the-purpose-of-academic-teaching/)
+	- [US Panel data from the NLS](https://www.nlsinfo.org/)
+	- [British Workplace Survey Data](https://www.wers2011.info/)
+  	- [Pietro Biroli Resources](https://sites.google.com/site/pietrobiroli/resources)
+   	- [One Tab Resources](https://www.one-tab.com/page/STn8dvhbRLeFwh085-i00w)
+	- [WISO Research Databases](https://wiso.uni-koeln.de/en/faculty/wiso-library-and-campus-service/research-databases)
+	- [World Values Survey](https://www.worldvaluessurvey.org/WVSDocumentationWV7.jsp)
 	- Some [Football Data](https://www.kaggle.com/datasets/codytipton/player-stats-per-game-understat) - See also [Notebook](./Notebooks/LoadSoccerData.ipynb)
 
   - The groups will give short presentations of their work (15 minutes per group + 10 minutes of discussion) on **November 18-19** during the scheduled lecture slots. Groups must hand in their slides and a Juypter Notebook with their analysis code, explanation, and interpretation by **November 18** at noon. Each group will be assigned to a time slot to present without the presence of the other groups.
