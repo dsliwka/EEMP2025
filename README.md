@@ -2,7 +2,7 @@
 
 ### University of Cologne
 
-#### Winter 2024/25
+#### Winter 2025/26
 
 _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 
