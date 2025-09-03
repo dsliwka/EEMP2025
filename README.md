@@ -23,13 +23,12 @@ _Prof. Dr. Dirk Sliwka and Sander Kraaij_
 _Note: Content will become available sequentially as the time of the session approaches._
 
 - Part 0: Introduction to Python - [Introduction](https://colab.research.google.com/drive/1sFPxjDqc2m3YoLxIpjIraOP3hbTxueqf?usp=sharing) - [Quiz](https://colab.research.google.com/drive/1XBnqIWlDqapd9b5NnKvJ6F9jnwVvwOwb?usp=sharing) - [Solutions](https://colab.research.google.com/drive/1XD-ijdZtAPMawuL2sKhad-v-6s8La8JI?usp=sharing)
-- Part 1: Regressions - [Slides](./Lectures/Eval2024_1.pdf) - [Notebook LPP](https://colab.research.google.com/drive/1-YiYAQTY15tuLoQXPz6SOcNyY5JrHoPA?usp=sharing) - [Notebook Management Practices](https://colab.research.google.com/drive/1ehhqzoFuY78hVU04z-hedgDxyJlsQwZt?usp=sharing)
-- Part 2: Statistical Tests - [Slides](./Lectures/Eval2024_2.pdf) - [Notebook Sample Simulation](https://colab.research.google.com/drive/15ushLi3psPoOckRBfrc2iactRChLsvf8?usp=sharing)
-- Part 3: Causality - [Slides](./Lectures/Eval2024_3.pdf) - [Notebook Sales Simulation](./Notebooks/SalesSimSampleSolutionsWithComments.ipynb)
-- Part 4: Survey Data, Scale Reliability & Common Method Bias - [Slides](./Lectures/Eval2024_4.pdf) - [Notebook LPP Engagement](./Notebooks/LPPanalyis.ipynb)
-- Part 5: Panel Data - [Slides](./Lectures/Eval2024_5.pdf) - [Notebook Panel Data Simulation](./Notebooks/SalesSimDiDSampleSolution.ipynb)
-- Part 6: Predictions and Machine Learning - [Slides](./Lectures/Eval2024_6.pdf) 
-  **Update:** [Notebook Engagement Predictions](./Notebooks/EngagementPredSampleSolutions_II.ipynb)  -  [Notebook with Decision Tree Example](./Notebooks/TreeExample.ipynb)
+- Part 1: Regressions <!-- - [Slides](./Lectures/Eval2024_1.pdf) - [Notebook LPP](https://colab.research.google.com/drive/1-YiYAQTY15tuLoQXPz6SOcNyY5JrHoPA?usp=sharing) - [Notebook Management Practices](https://colab.research.google.com/drive/1ehhqzoFuY78hVU04z-hedgDxyJlsQwZt?usp=sharing) -->
+- Part 2: Statistical Tests <!-- - [Slides](./Lectures/Eval2024_2.pdf) - [Notebook Sample Simulation](https://colab.research.google.com/drive/15ushLi3psPoOckRBfrc2iactRChLsvf8?usp=sharing) -->
+- Part 3: Causality <!-- - [Slides](./Lectures/Eval2024_3.pdf) - [Notebook Sales Simulation](./Notebooks/SalesSimSampleSolutionsWithComments.ipynb) -->
+- Part 4: Survey Data, Scale Reliability & Common Method Bias <!-- - [Slides](./Lectures/Eval2024_4.pdf) - [Notebook LPP Engagement](./Notebooks/LPPanalyis.ipynb) -->
+- Part 5: Panel Data <!-- - [Slides](./Lectures/Eval2024_5.pdf) - [Notebook Panel Data Simulation](./Notebooks/SalesSimDiDSampleSolution.ipynb)-->
+- Part 6: Predictions and Machine Learning <!-- - [Slides](./Lectures/Eval2024_6.pdf)  **Update:** [Notebook Engagement Predictions](./Notebooks/EngagementPredSampleSolutions_II.ipynb)  -  [Notebook with Decision Tree Example](./Notebooks/TreeExample.ipynb) -->
 
 ### Examination format
 - The exam consists of group work and a multiple-choice exam. **Please register until October 15!**
